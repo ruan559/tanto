@@ -1,0 +1,19 @@
+body {
+    color: black;
+    background-color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    background-color: gold ; /* Cor de fundo do link */
+}
+
+h1 {
+    color: gold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    color: gold;
+    font-family: Arial, Helvetica, sans-serif;
+}
